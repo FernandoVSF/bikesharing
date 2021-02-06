@@ -49,3 +49,7 @@ We suggest the following additional visualizations for future analysis:
   - User age trend by gender
   
   - Duration time per type of user  
+  
+## Link to Dashboard
+  
+[link to dashboard](https://public.tableau.com/profile/fernando.santos8046#!/vizhome/challenge_16126440284230/NYCStory?publish=yes "link to dashboard")
