@@ -26,7 +26,7 @@ The Duration Dashboard brings the following results:
 
 - Checkout Times by Gender:  This chart shows that males are a big majority of the users.  What differs within genders is the fact that after the inflexion point in 5y, average duration decreases more rapdily than other genders.
 
-- Average Trip Duration: This chart shows that younger users tend to have longer trips, probably explained by having greater resistance and more younger people using bikes as transport.
+- Average Trip Duration: This chart shows that younger users tend to have longer trips, probably explained by having greater resistance and more younger people using bikes as transport.  The data shows users in August 2019 born before 1890, which requires further analysis in data quality.
 
    - Pick Hours Dashboard
    
@@ -44,11 +44,10 @@ The Pick Hours Dashboard brings the following results:
  
 ## Summary
 
-One drawback of this design is that it requires the user to scroll over the whole list to select the input for the search criteria.  Another one is not being possible to reset filters (although we can select a new criteria for the filter).
+Although data was obtained from NYC users, since the analyses were produved using generic information and not city specific, we believe they are very good proxy on how it would behave in any other US location.  Key results were a higher usage of male and younger population, and pick hours at time people go from and to work during business days and more driven to daylight on weekends.  It also shows that most of people who use it foe wirk subscribes to the service, and there's not much registration requirements for regular customers.
 
-As a recomendation for further dvelopments, I suggest the following:
+We suggest the following additional visualizations for future analysis:
 
-  - Implementing combo boxes in the input fields, to show the possible selections and avoiding typos;
+  - User age trend by gender
   
-  - Implementing an option to reset filters, by "showing all" in the combo box suggested above.
-  
+  - Duration time per type of user  
