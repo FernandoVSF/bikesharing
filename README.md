@@ -28,7 +28,7 @@ The Duration Dashboard brings the following results:
 
 - Average Trip Duration: This chart shows that younger users tend to have longer trips, probably explained by having greater resistance and more younger people using bikes as transport.  The data shows users in August 2019 born before 1890, which requires further analysis in data quality.
 
-   - Pick Hours Dashboard
+  - Pick Hours Dashboard
    
 ![PickHours](/PickHours.png)
    
@@ -44,7 +44,7 @@ The Pick Hours Dashboard brings the following results:
  
 ## Summary
 
-Although data was obtained from NYC users, since the analyses were produved using generic information and not city specific, we believe they are very good proxy on how it would behave in any other US location.  Key results were a higher usage of male and younger population, and pick hours at time people go from and to work during business days and more driven to daylight on weekends.  It also shows that most of people who use it foe wirk subscribes to the service, and there's not much registration requirements for regular customers.
+Although data was obtained from NYC users, since the analyses were produved using generic information and not city specific, we believe they are very good proxy on how it would behave in any other US location.  Key results were a higher usage of male and younger population, and pick hours at time people go from and to work during business days and more driven to daylight on weekends.  It also shows that most of people who use it for work subscribes to the service, and there's not much registration requirements for regular customers.
 
 We suggest the following additional visualizations for future analysis:
 
