@@ -20,6 +20,14 @@ NYC Story is presented in two dashboards, one showing analysis of trip duration,
   
 ![Duration](/Duration.png)
 
+The Duration Dashboard brings the following results:
+
+- Checkout Times for Users:  This chart shows that the length of time that bikes are checked out for all riders occurs more frequently in 5 hours, with a rapid increase starting in 1 hours, and slow decrease after 5 hours.
+
+- Checkout Times by Gender:  This chart shows that males are a big majority of the users.  What differs within genders is the fact that after the inflexion point in 5y, average duration decreases more rapdily than other genders.
+
+- Average Trip Duration: This chart shows that younger users tend to have longer trips, probably explained by having greater resistance and more younger people using bikes as transport.
+
    - Filtering by Shape = light
   
 ![f1](/f1_shape.png)
