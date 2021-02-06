@@ -28,21 +28,19 @@ The Duration Dashboard brings the following results:
 
 - Average Trip Duration: This chart shows that younger users tend to have longer trips, probably explained by having greater resistance and more younger people using bikes as transport.
 
-   - Filtering by Shape = light
-  
-![f1](/f1_shape.png)
-  
-   - Adding filter by State = ca
-  
-![f2](/f2_state.png)
+   - Pick Hours Dashboard
+   
+![PickHours](/PickHours.png)
+   
+The Pick Hours Dashboard brings the following results:
+ 
+- Trips by Weekday per Hour: This chart shows that most of the trips occur around 5-6pm, when people leaves work, and then at 8am, when people head to their workplace.
 
-   - Adding filter by City = el cajon
-  
-![f3](/f3_city.png)
+- Trips by Gender (Weekday per Hour):  This chart shows that while male and female show similar patterns in time (being male appearing more frequently given most of the users are male), there is no clear patter for unknown gender on businessdays, and more usage during daytime.
 
-   - Adding filter by Date = 1/1/2010
-  
-![f4](/f4_date.png)
+- August Peak Hours: This chart brings another view of the pick hours, showing the same results than the first chart but with a more numeric represenation, and not breaking per weekday. Again, pick hours occor between 5-6pm, sand then at 8am.
+
+- User Trips by Gender by Weekday:  This chart shows that while subscribers use bike sharing mostly during business weekday, being Thursday the pick day, non-subscribers use mostly during weekends.  Also there are more unknown gender in custumers than subscribers, probably for loser registration requirements.
  
 ## Summary
 
