@@ -16,7 +16,7 @@ The following outputs will be produced:
 ## Results
 NYC Story is presented in two dashboards, one showing analysis of trip duration, and the other showing analysis of pick hours/days for bike utilization in NYC.
 
-- Duration Dashboard
+### Duration Dashboard
   
 ![Duration](/Duration.png)
 
@@ -28,7 +28,7 @@ The Duration Dashboard brings the following results:
 
   - Average Trip Duration: This chart shows that younger users tend to have longer trips, probably explained by having greater resistance and more younger people using bikes as transport.  The data shows users in August 2019 born before 1890, which requires further analysis in data quality.
 
-- Pick Hours Dashboard
+### Pick Hours Dashboard
 
 ![PickHours](/PickHours.png)
    
