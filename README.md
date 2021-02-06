@@ -44,6 +44,8 @@ The Pick Hours Dashboard brings the following results:
 
 Although data was obtained from NYC users, since the analyses were produved using generic information and not city specific, we believe they are very good proxy on how it would behave in any other US location.  Key results were a higher usage of male and younger population, and pick hours at time people go from and to work during business days and more driven to daylight on weekends.  It also shows that most of people who use it for work subscribes to the service, and there's not much registration requirements for regular customers.
 
+Note:  Data on tripduration was represented in "minutes" to match the module, although it would have made more sence being represented in "seconds"
+
 We suggest the following additional visualizations for future analysis:
 
   - User age trend by gender
