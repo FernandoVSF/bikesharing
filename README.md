@@ -14,11 +14,11 @@ The following outputs will be produced:
 - Software: Tableau, Python, Jupyter Notebook
 
 ## Results
-NYC Story is presented in two dashboards, one showing analysis of trip duration, and the other showing analysis of pick hours/days for bike usage in NYC.
+NYC Story is presented in two dashboards, one showing analysis of trip duration, and the other showing analysis of pick hours/days for bike utilization in NYC.
 
-  - Initial Page
+  - Duration Dashboard
   
-![initial](/initial.png)
+![Duration](/Duration.png)
 
    - Filtering by Shape = light
   
