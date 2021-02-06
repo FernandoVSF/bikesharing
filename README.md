@@ -52,4 +52,4 @@ We suggest the following additional visualizations for future analysis:
   
 ## Link to Dashboard
   
-[link to dashboard](https://public.tableau.com/profile/fernando.santos8046#!/vizhome/challenge_16126440284230/NYCStory?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/profile/fernando.santos8046#!/vizhome/challenge_16126440284230/NYCStory?publish=yes "Link to NYC Story")
